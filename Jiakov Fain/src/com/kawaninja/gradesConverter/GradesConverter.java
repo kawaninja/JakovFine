@@ -17,6 +17,7 @@ public class GradesConverter {
 
 		GradesConverter.converter(40, 'F');
 		GradesConverter.converter(5, 'C');
+		GradesConverter.converter(36.6, 'F');
 	}
 
 }
